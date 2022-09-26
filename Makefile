@@ -12,4 +12,4 @@ format:
 lint:
 	pylint --disable=R,C awscli.py
 
-all: install lint test format 
+all: install lint test format
